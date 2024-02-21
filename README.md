@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1lent&label=Profile%20views&color=0e75b6&style=flat" alt="1lent" /> </p>
 
-- 🔭 I’m currently working on **Something to do with spotify!**
+- 🔭 I’m currently working on **Something to do with spotify! (An extra application)**
 
 - 🌱 I’m currently learning **Java, and Minecraft plugin development**
 
