@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **nothing atm!**
 
-- 👨‍💻 All of my projects are available at [https://pika.rip/1lent](https://pika.rip/1lent)
+- 👨‍💻 All of my projects are available at [Coming Soon](https://pika.rip/1lent)
 
 - 📫 How to reach me **bobjefferson1234555@outlook.com**
 
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1lent&show_icons=true&locale=en&layout=compact" alt="1lent" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1lent&show_icons=true&locale=en" alt="1lent" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=1lent&show_icons=true&locale=en" alt="1lent" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1lent&" alt="1lent" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=1lent&" alt="1lent" /></p>
