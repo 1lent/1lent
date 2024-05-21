@@ -3,21 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1lent&label=Profile%20views&color=0e75b6&style=flat" alt="1lent" /> </p>
 
-I’m currently working on **Something to do with spotify! (An extra application)**
-
-I’m currently learning **Java, and Minecraft plugin development**
-
-I’m looking to collaborate on **Any projects dm me on discord**
-
-I’m looking for help with **nothing atm!**
-
-All of my projects are available at [Coming Soon](https://pika.rip/1lent)
-
-How to reach me **bobjefferson1234555@outlook.com**
-
-Know about my experiences [https://pika.rip/1lent](https://pika.rip/1lent)
-
-Fun fact **I own sheep!**
+<div align="center">
+  <h1>Hello, I'm 1lent! 👋</h1>
+  <p>🔥 | python | java | 🔥</p>
+  <p>💻 | Intellij | 💻</p>
+  <p>🚀 | Plugin Dev (somewhat) | 🚀</p>
+  <p>
 
 <h3 align="center">Connect with me:</h3>
 - 1lent on discord.
