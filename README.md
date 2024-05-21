@@ -3,23 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1lent&label=Profile%20views&color=0e75b6&style=flat" alt="1lent" /> </p>
 
-- 🔭 I’m currently working on **Something to do with spotify! (An extra application)**
+I’m currently working on **Something to do with spotify! (An extra application)**
 
-- 🌱 I’m currently learning **Java, and Minecraft plugin development**
+I’m currently learning **Java, and Minecraft plugin development**
 
-- 👯 I’m looking to collaborate on **Any projects dm me on discord**
+I’m looking to collaborate on **Any projects dm me on discord**
 
-- 🤝 I’m looking for help with **nothing atm!**
+I’m looking for help with **nothing atm!**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](https://pika.rip/1lent)
+All of my projects are available at [Coming Soon](https://pika.rip/1lent)
 
-- 📫 How to reach me **bobjefferson1234555@outlook.com**
+How to reach me **bobjefferson1234555@outlook.com**
 
-- 📄 Know about my experiences [https://pika.rip/1lent](https://pika.rip/1lent)
+Know about my experiences [https://pika.rip/1lent](https://pika.rip/1lent)
 
-- ⚡ Fun fact **I own sheep!**
+Fun fact **I own sheep!**
 
 <h3 align="left">Connect with me:</h3>
+- 1lent on discord.
+
 <p align="left">
 </p>
 
