@@ -7,7 +7,7 @@
   <p>🔥 | python | java | 🔥</p>
   <p>💻 | Intellij | 💻</p>
   <p>🚀 | Plugin Dev (somewhat) | 🚀</p>
-  <p>
+  <p>👥 | I Contribute to things, grimAC and more! Free plugins made by me in my repos</p>
 
 <h3 align="center">Connect with me:</h3>
 - 1lent on discord.
