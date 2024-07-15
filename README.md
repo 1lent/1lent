@@ -9,6 +9,7 @@
   <p>🚀 | Plugin Dev (somewhat) | 🚀</p>
   <p>👥 | I like to Contribute to things, grimAC and more!</p> 
   <p>Free plugins made by me in my repos</p>
+  <p>Trying to get better at java :sob: </p>
 
 <h3 align="center">Connect with me:</h3>
 - 1lent on discord.
