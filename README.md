@@ -4,8 +4,8 @@
 
 <div align="center">
   <h1>Hello, I'm 1lent! 👋</h1>
-  <p>🔥 | python | java | 🔥</p>
-  <p>🚀 | Plugin Dev (somewhat) | 🚀</p>
+  <p>🔥 | python | java | KT soon |🔥</p>
+  <p>🚀 | Bits an bobs w/java | 🚀</p>
   <p>👥 | I like to Contribute to things, grimAC and more!</p> 
   <p>Free plugins made by me in my repos</p>
   <p>Trying to get better at java :sob: </p>
