@@ -4,11 +4,9 @@
 
 <div align="center">
   <h1>Hello, I'm 1lent! 👋</h1>
-  <p>🔥 | python | java | KT soon |🔥</p>
+  <p>🔥 | python | java | Kotlin |🔥</p>
   <p>🚀 | Bits an bobs w/java | 🚀</p>
-  <p>👥 | I like to Contribute to things, grimAC and more!</p> 
   <p>Free plugins made by me in my repos</p>
-  <p>Trying to get better at java :sob: </p>
 
 <h3 align="center">Connect with me:</h3>
 - 1lent on discord.
