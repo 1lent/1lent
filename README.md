@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Hello, I'm 1lent! 👋</h1>
   <p>🔥 | python | java | Kotlin |🔥</p>
-  <p>🚀 | Currently working and improving my Staff core plugin called Phantom | 🚀</p>
+  <p>🚀 | Currently working and improving my Staff core plugin called Phantom! | 🚀</p>
 
 <h3 align="center">Connect with me:</h3>
 - 1lent on discord.
