@@ -8,7 +8,7 @@
   <p>🚀 | Currently working and improving my Staff core plugin called Phantom! | 🚀</p>
 
 <h3 align="center">Connect with me:</h3>
-- 1lent on discord.
+- 1lent on discord
 
 <p align="left">
 </p>
